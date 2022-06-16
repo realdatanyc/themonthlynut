@@ -1,4 +1,6 @@
-## THE Monthly NUT
+## THE MONTHLY NUT
+
+Personal finance newsletter for the smart savings and intelligent spending.  
 
 [Tivax over-the-air set-top box](https://www.amazon.com/Tivax-STB-T8-Digital-Analog-Converter/dp/B001EJJ2UU)
 
