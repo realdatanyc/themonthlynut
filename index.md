@@ -4,6 +4,8 @@ Personal finance newsletter for the smart savings and intelligent spending.
 
 [Tivax over-the-air set-top box](https://www.amazon.com/Tivax-STB-T8-Digital-Analog-Converter/dp/B001EJJ2UU)
 
+[Gen Z cities for housing](https://www.nytimes.com/2022/05/26/realestate/generation-z-home-buying.html?smid=url-share)
+
 You can use the [editor on GitHub](https://github.com/realdatanyc/themonthlynut/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
